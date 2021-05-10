@@ -49,4 +49,4 @@ Ploting Images:
 
 * [Abhishek chaudhary](https://github.com/chaudhary312)
 * [Khushi Agrawal](https://github.com/khushi-411)
-* [prabhatk579](https://github.com/prabhatk579)
+* [Prabhat Kumar](https://github.com/prabhatk579)
