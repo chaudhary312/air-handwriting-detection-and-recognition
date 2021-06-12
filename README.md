@@ -5,6 +5,12 @@ This project is divided into two parts:
 * Detection 
 * Recognition 
 
+### Execution:
+Execute the air-handwriting-detection-and-recognnition.ipynb with color_selector.py in the same folder if you are running code on jupyter notebook or VS code or any local host machine with replacement of path of dataset and last_frame.png to where you have saved your dataset and last_frame.png.
+
+If execution is done using Google Colab; Execute the detection.py with color_selector.py in the same folder of code using VS Code or prefered python editor and OCR.ipynb in google colab by uploading last_frame.png into your google drive and replacing the path of both dataset and last_frame.png.
+
+Initially `Training` is set to `True`, Changing it to false will use the trained model but initially you have to train the model.
 
 ### **Detecting the Alphabets:**
 
@@ -26,7 +32,7 @@ This project is divided into two parts:
 
 #### **Link to Dataset** 
 
-https://www.kaggle.com/sachinpatel21/az-handwritten-alphabets-in-csv-format
+[A-Z Dataset](https://www.kaggle.com/sachinpatel21/az-handwritten-alphabets-in-csv-format)
 
 #### **Ploting Dataset**
 
@@ -44,6 +50,7 @@ Ploting Images:
 ### **The output obtained:**
 
 ![Screenshot (96)](https://user-images.githubusercontent.com/62256509/117632612-e92c3300-b19a-11eb-86f7-6088d6cec561.png)
+
 
 ### **Team Of:**
 
