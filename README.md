@@ -10,7 +10,7 @@ Execute the air-handwriting-detection-and-recognnition.ipynb with color_selector
 
 If execution is done using Google Colab; Execute the detection.py with color_selector.py in the same folder of code using VS Code or prefered python editor and OCR.ipynb in google colab by uploading last_frame.png into your google drive and replacing the path of both dataset and last_frame.png.
 
-Initially `Training` is set to `True`, Changing it to false will use the trained model.
+Initially `Training` is set to `True`, Changing it to false will use the trained model but initially you have to train the model.
 
 ### **Detecting the Alphabets:**
 
