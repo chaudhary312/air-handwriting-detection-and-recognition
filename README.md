@@ -57,8 +57,10 @@ Ploting Images:
 ### **Confusion Matrix of training Data:**
 ![image](https://user-images.githubusercontent.com/54438860/124570830-dbc2ba80-de64-11eb-9abc-2d441432dbf6.png)
 
-### **Performance Comparision Between RMSProp and ADAM optimizer:
+### **Performance Comparision Between RMSProp and ADAM optimizer:**
+
 `test1` and `train1` are the output of the **ADAM** while `test2` and `train2` are the output of **RMSProp**
+
 ![image](https://user-images.githubusercontent.com/54438860/124571194-32c88f80-de65-11eb-8e87-327c0e6eb525.png)
 
 
