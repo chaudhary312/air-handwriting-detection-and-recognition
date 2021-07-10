@@ -51,6 +51,18 @@ Ploting Images:
 
 ![Screenshot (96)](https://user-images.githubusercontent.com/62256509/117632612-e92c3300-b19a-11eb-86f7-6088d6cec561.png)
 
+### **Confusion Matrix of testing Data:**
+![image](https://user-images.githubusercontent.com/54438860/124570642-b59d1a80-de64-11eb-9c44-ee054c006242.png)
+
+### **Confusion Matrix of training Data:**
+![image](https://user-images.githubusercontent.com/54438860/124570830-dbc2ba80-de64-11eb-9abc-2d441432dbf6.png)
+
+### **Performance Comparision Between RMSProp and ADAM optimizer:**
+
+`test1` and `train1` are the output of the **ADAM** while `test2` and `train2` are the output of **RMSProp**
+
+![image](https://user-images.githubusercontent.com/54438860/124571194-32c88f80-de65-11eb-8e87-327c0e6eb525.png)
+
 
 ### **Team Of:**
 
